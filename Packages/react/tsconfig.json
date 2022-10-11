@@ -1,0 +1,4 @@
+{
+  "extends": "@edamsm-ui/ts-config/react.json",
+  "include": ["src"],
+}
